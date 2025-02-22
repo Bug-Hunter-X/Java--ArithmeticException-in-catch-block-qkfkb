@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates a subtle error related to exception handling. The initial code attempts to divide by zero, which correctly throws an ArithmeticException. However, the catch block also attempts the same operation, leading to another ArithmeticException. The solution provides the corrected code.
